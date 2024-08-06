@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack.**
 
-- 💬 Ask me about **MERN Stack. I will try my best to answer it.**
+- 💬 Ask me anything . ** I will try my best to answer it.**
 
 - 📫 How to reach me **tunir.chakraborty.tc@gmail.com**
 
